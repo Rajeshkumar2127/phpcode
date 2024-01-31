@@ -1,0 +1,28 @@
+
+.con{
+    border: 1px solid #161313;
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+    /* margin-top: 20px; */
+    border-radius: 20px;
+  }
+  a{
+  text-decoration: none;
+  }
+  
+  .calon {
+  display: flex;
+  justify-content: end;
+  }
+
+  
+  .style{
+    border: 1px solid #161313;
+    width: 50%;
+    border-radius: 20px;
+    margin: auto;
+  margin-top: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  }
